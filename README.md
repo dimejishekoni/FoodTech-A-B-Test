@@ -3,6 +3,10 @@
 ## 📌 Project Overview
 This project analyzes an **A/B test conducted by a UK-based foodtech company** to evaluate the impact of **larger food images on restaurant menu cards** on **user experience and conversion rates**. The goal is to determine if increasing image size helps users make quicker purchasing decisions and improves order completion rates.
 
+
+## 📌 Presentation
+https://www.loom.com/share/c055638c780b45e583651c6d144450a7?sid=cf872606-7ec4-41ed-992a-8edebc93e9ee
+
 ## 📊 Experiment Details
 - **Location**: London, UK
 - **Test Duration**: November 25 – November 30, 2024
