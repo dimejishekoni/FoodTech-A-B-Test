@@ -2,13 +2,6 @@
 
 ## 📌 Project Overview
 This project analyzes an **A/B test conducted by a UK-based foodtech company** to evaluate the impact of **larger food images on restaurant menu cards** on **user experience and conversion rates**. The goal is to determine if increasing image size helps users make quicker purchasing decisions and improves order completion rates.
-
-
-## 📽️ Presentation Link
-Here's a detailed walkthrough of the analysis: 
-
-
-https://www.loom.com/share/c055638c780b45e583651c6d144450a7
   
 ## 📊 Experiment Details
 - **Location**: London, UK
@@ -82,6 +75,9 @@ https://www.loom.com/share/c055638c780b45e583651c6d144450a7
 - **SQL** for querying and data extraction.
 - **Matplotlib, Plotly** for visualization.
 - **Chi-Square Test** for statistical validation.
+
+## 📽️ Presentation Link
+Here's a detailed walkthrough of the analysis: [Watch Here](https://www.loom.com/share/c055638c780b45e583651c6d144450a7)
 
 ## 📌 Conclusion
 While **larger images improved order completion rates and confidence**, they **did not significantly increase order placements**. To **maximize conversion improvements**, the company should **enhance restaurant discovery, optimize iOS UX, and refine time-based promotions**. A follow-up test outside of **Black Friday** is recommended to validate these findings.
